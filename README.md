@@ -1,6 +1,6 @@
 <!-- Premium Aesthetic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=DineshJ%20S&fontAlign=50&fontSize=55&color=0:0A0F24,100:0B1A39&fontColor=E6F0FF" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Dinesh%20J&fontAlign=50&fontSize=55&color=0:0A0F24,100:0B1A39&fontColor=E6F0FF" />
 </p>
 
 <!-- Animated Identity -->
