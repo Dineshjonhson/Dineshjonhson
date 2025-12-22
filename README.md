@@ -73,23 +73,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuralarasansjk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuralarasansjk&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuralarasansjk&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
